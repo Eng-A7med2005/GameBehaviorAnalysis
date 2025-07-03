@@ -447,9 +447,9 @@ def get_theme_css():
 @st.cache_resource
 def load_models():
     try:
-        model = joblib.load(r'E:\Projects\Optical_Soft\OP_model.pkl')
-        scaler = joblib.load(r'E:\Projects\Optical_Soft\OP_scaler.pkl')
-        numeric_features = joblib.load(r'E:\Projects\Optical_Soft\numeric_features.pkl')
+        model = joblib.load('OP_model.pkl')
+        scaler = joblib.load('OP_scaler.pkl')
+        numeric_features = joblib.load('numeric_features.pkl')
         return model, scaler, numeric_features
     except FileNotFoundError:
         st.error("🚨 Model files not found. Please make sure 'OP_model.pkl', 'OP_scaler.pkl', and 'numeric_features.pkl' are in the same directory.")
