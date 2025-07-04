@@ -686,8 +686,8 @@ def main():
                 with prob_col1:
                     st.markdown(f"""
                     <div class="probability-card">
-                        <h3>📉 Low Engagement</h3>
-                        <h2 style="color: #f44336;">{prediction_proba[0]:.2%}</h2>
+                        <h3>🔥 High Engagement</h3>
+                        <h2 style="color: #4CAF50;">{prediction_proba[0]:.2%}</h2>
                     </div>
                     """, unsafe_allow_html=True)
                 
@@ -695,15 +695,15 @@ def main():
                     st.markdown(f"""
                     <div class="probability-card">
                         <h3>⚡ Medium Engagement</h3>
-                        <h2 style="color: #FF9800;">{prediction_proba[1]:.2%}</h2>
+                        <h2 style="color: #FF9800;">{prediction_proba[2]:.2%}</h2>
                     </div>
                     """, unsafe_allow_html=True)
                 
                 with prob_col3:
                     st.markdown(f"""
                     <div class="probability-card">
-                        <h3>🔥 High Engagement</h3>
-                        <h2 style="color: #4CAF50;">{prediction_proba[2]:.2%}</h2>
+                        <h3>📉 Low Engagement</h3>
+                        <h2 style="color: #f44336;">{prediction_proba[1]:.2%}</h2>
                     </div>
                     """, unsafe_allow_html=True)
             
