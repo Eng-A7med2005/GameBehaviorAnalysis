@@ -11,7 +11,6 @@ An advanced AI-powered web app built with **Streamlit** to **predict player enga
 Try it out now!
 
 **▶️ [Launch the App](https://gba-optical.streamlit.app/)**
-*(Replace the URL with your actual Streamlit Cloud or deployment link)*
 
 ---
 
