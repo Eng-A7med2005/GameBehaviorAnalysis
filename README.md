@@ -1,7 +1,5 @@
 # 🎮 Player Engagement Predictor 🚀
 
-![Streamlit Badge](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
-
 An advanced AI-powered web app built with **Streamlit** to **predict player engagement levels** based on in-game statistics and demographics. The app features a sleek, modern UI with support for both light and dark themes to enhance user experience.
 
 ---
@@ -10,7 +8,7 @@ An advanced AI-powered web app built with **Streamlit** to **predict player enga
 
 Try it out now!
 
-**▶️ [Launch the App](https://gba-optical.streamlit.app/)**
+**▶️ [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gba-optical.streamlit.app/)**
 
 ---
 
