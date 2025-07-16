@@ -8,7 +8,7 @@ An advanced AI-powered web app built with **Streamlit** to **predict player enga
 
 Try it out now!
 
-**▶️ [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gba-optical.streamlit.app/)**
+**[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gba-optical.streamlit.app/)**
 
 ---
 
